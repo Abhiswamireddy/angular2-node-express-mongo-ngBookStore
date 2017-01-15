@@ -1,6 +1,6 @@
 # NgBookStore
 
-This e-commerce project is a built on the MEAN Stack (Mongo, Express, Angular 2, Node) in order to help anyone who is trying to learn how these Javascript technologies work together. It shows how to do CRUD operation with Mongo DB and nested router control for Angular 2. 
+This e-commerce Single Page Application project is a built on the MEAN Stack (Mongo, Express, Angular 2, Node) in order to help anyone who is trying to learn how these Javascript technologies work together. It shows how to do CRUD operation with Mongo DB and nested router control for Angular 2. 
 
 For simplicy, authentication is not implemented. I will be doing a separate project to demonstrate that feature soon. 
 
